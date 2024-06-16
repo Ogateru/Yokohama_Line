@@ -1,0 +1,11 @@
+<br/>
+<a href="kaiban.html">改版履歴はこちらから</a>
+<h2>DATA</h2>
+<table>
+    <tr><th>住所</th>
+        <td>〒221-0044 神奈川県横浜市神奈川区東神奈川１丁目<a href="https://maps.google.com" target="_blank"><img src="Google Map.ico" alt="Googleマップで見る"><font face="ＭＳ Ｐ明朝">Googleマップで見る</font><br/></a>
+    <tr><th>開業年月日</th>
+        <td>1908(明治41)年９月２３日</td>
+    <tr><th>乗車人員(2019年度)</th>
+        <td>37,577人</td>
+        </table>

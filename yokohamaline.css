@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+  background-color: #f0fff0;
+  color: black;
+}
+
+
+table, td, th { border: 3px #338545 }
+
+}
+
+
+font-family:Arial,sans-serif; }
+
+h1 { font-syze:350px; }
+
+h2 { font-syze:300px; }
+
+
+
+table, td, th { border: 3px solid blue }
+
+
+
